@@ -1,5 +1,6 @@
 # MERN Task Manager
 
+<img width="959" alt="image" src="https://github.com/Tushar1619/TaskManager-/assets/89791501/ffa4a511-774b-4f2b-a59b-0a7c0035b2cf">
 
 ## Installation and Setup
 
